@@ -7,16 +7,16 @@ assignees: ''
 
 ---
 
-###ISSUE
+### ISSUE
 - Group: client, server, sr
 - Type: bug, feature, delete
 ---
-###TODO
+### TODO
  - [ ] Job1
  - [ ] Job2
  - [ ] Job3
 
-###Estimated time
+### Estimated time
 > Pick one
 
 ```0.5h```
@@ -26,7 +26,7 @@ assignees: ''
 ```2.5h```
 ```3h```
 ---
-###Labels
+### Labels
 - Estimated time: ```E: 1h```
 - Group : ```client```, ```server```
 - Sprint: ```Sprint__NUMBER__```
