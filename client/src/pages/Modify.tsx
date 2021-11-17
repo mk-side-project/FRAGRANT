@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 
 
+
 function Modify() {
 
     const Wrap = styled.section`
@@ -10,9 +11,10 @@ function Modify() {
     `;
   
     return (
+        <>
 
         <Wrap>정보수정</Wrap>
-
+</>
     )
 }
 
