@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "strict": true
+    },
+    "include": [
+        "server/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
